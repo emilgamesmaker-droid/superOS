@@ -38,3 +38,4 @@ bash
 
         c:
         cd c:desktop
+        "C:\Program Files\qemu\qemu-system-i386.exe" -fda floppy.img
